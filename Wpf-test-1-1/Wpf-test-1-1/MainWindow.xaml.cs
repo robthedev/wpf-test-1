@@ -23,6 +23,8 @@ namespace Wpf_test_1_1
         public MainWindow()
         {
             InitializeComponent();
+
+            textBlock.Text = "hello ++++";
         }
     }
 }
